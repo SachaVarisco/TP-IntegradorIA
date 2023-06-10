@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class AlertState : MonoBehaviour
 {
-    public float spinSpeed = 120f;
+    /*public float spinSpeed = 120f;
     public float setTime = 4;
     
     private StateMachineAgent stateMachine;
@@ -41,5 +41,5 @@ public class AlertState : MonoBehaviour
             stateMachine.ActivateState(stateMachine.patrollState);
             return;
         }
-    }
+    }*/
 }
